@@ -17,6 +17,7 @@ gem 'turbolinks'
 gem 'jbuilder', '1.0.2'
 gem 'json', '1.8.3'
 gem 'nokogiri'
+gem 'net-ssh'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
