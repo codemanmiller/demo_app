@@ -4,6 +4,10 @@ ruby '2.3.1'
 
 gem 'rails', '4.2.10'
 
+group :development do
+	gem 'sqlite3'
+end
+
 
 gem 'sass-rails'
 gem 'uglifier', '2.1.1'
